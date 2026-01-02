@@ -1,0 +1,16 @@
+{
+  "name": "3--type-annotations-and-inference",
+  "version": "1.0.0",
+  "description": "Annotations and inferences",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.ts",
+    "dev": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
